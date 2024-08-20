@@ -15,6 +15,13 @@ As máscaras são aplicadas à imagem original para extrair as áreas correspond
 
 O código realiza a detecção de cores, aplica a substituição e exibe a imagem permitindo observar a troca de cores em tempo real.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/89fb5ced-aa08-4f85-829c-229e29e3efb1">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4256994b-cd4d-41f8-8427-87f997ecf241">
+</p>
+
 ## Como Usar
  - Clone o repositório para sua máquina local.
  - Instale as bibliotecas necessárias no código.
