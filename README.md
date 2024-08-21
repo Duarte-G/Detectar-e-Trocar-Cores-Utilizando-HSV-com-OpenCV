@@ -11,7 +11,7 @@ Máscaras são criadas para identificar cores específicas (vermelho, azul e ver
 As máscaras são aplicadas à imagem original para extrair as áreas correspondentes a cada cor
 
 - **Substituição de cores:**
-- Cada cor detectada foi substituída por uma nova cor (vermelho trocado por verde, azul pelo vermelho e verde por azul). A substituição é realizada criando imagens substitutas para cada cor detectada.
+Cada cor detectada foi substituída por uma nova cor (vermelho trocado por verde, azul pelo vermelho e verde por azul). A substituição é realizada criando imagens substitutas para cada cor detectada.
 
 O código realiza a detecção de cores, aplica a substituição e exibe a imagem permitindo observar a troca de cores em tempo real.
 
